@@ -10,7 +10,7 @@
 - [Jeetendra Sarpe](https://github.com/jtndr26)
 
 
-### Context:
+### Business Context:
 Companies seek to divide their larger consumer base into smaller, more homogeneous groups based on various factors such as demographics, behavior, and product preferences. However, the decision to implement market segmentation should be carefully considered, as it requires significant resources and organizational restructuring. Implementing segmentation strategies must result in a tangible increase in sales and profitability compared to non-segmented marketing approaches. Challenges in successful segmentation implementation include insufficient resources, lack of organizational alignment, resistance to change, and process-related barriers. Therefore, businesses need to leverage advanced analytics and unsupervised learning techniques to identify hidden patterns and clusters within their consumer data, allowing for more targeted marketing efforts and product/service customization.
 
 ### Project Description:
